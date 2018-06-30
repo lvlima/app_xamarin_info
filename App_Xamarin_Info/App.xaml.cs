@@ -11,7 +11,7 @@ namespace App_Xamarin_Info
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new App_Xamarin_Info.Master.Menu();
         }
 
         protected override void OnStart()

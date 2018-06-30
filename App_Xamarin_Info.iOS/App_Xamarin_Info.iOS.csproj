@@ -158,4 +158,9 @@
       <Name>App_Xamarin_Info</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Xamarin.png" />
+    <BundleResource Include="Resources\Perfil.png" />
+    <BundleResource Include="Resources\Fundo.png" />
+  </ItemGroup>
 </Project>
